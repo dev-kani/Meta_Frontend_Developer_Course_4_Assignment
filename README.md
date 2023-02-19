@@ -1,1 +1,1 @@
-![Page Preview](/images/page-preview.png "Little Lemon"
+![Page Preview](/images/page-preview.png "Little Lemon")
